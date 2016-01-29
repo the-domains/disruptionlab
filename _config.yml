@@ -1,0 +1,28 @@
+name: DISRUPTIONLAB
+favicon: null
+layout_spectrum: 0.8164887842722237
+typography_spectrum: 0.7064532802905887
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.21438593743368983
+  lightness: 0.39328929828479886
+  saturation: 0.4657511869445443
+  rhythmicContrast: 0.6501147516537458
+purpose: []
