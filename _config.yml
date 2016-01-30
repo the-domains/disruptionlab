@@ -1,29 +1,38 @@
-name: DISRUPTIONLAB
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.58934
-title: 'innovation by RESEARCH & DEVELOPMENT'
+title: 'AD AGENCY RESEARCH & DEVELOPMENT'
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.4657511869445443
+  brandStrength: 1
+  lightness: 0.3932892982847989
+  brandColors:
+    - '#E0DED9'
+    - '#3B3A37'
+  rhythmicContrast: 0.6501147516537458
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: DISRUPTIONLAB
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#ffffff'
-    - '#999999'
-    - '#6a6a6a'
-    - '#414141'
-  brandStrength: 1
-  lightness: 0
-  saturation: 1
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0
+layout_spectrum: 1
