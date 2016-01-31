@@ -6,15 +6,15 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.4657511869445443
-  brandStrength: 1
+  brandStrength: 0
   lightness: 0.3932892982847989
   brandColors:
     - '#E0DED9'
@@ -28,11 +28,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: DISRUPTIONLAB
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0
-layout_spectrum: 1
+layout_spectrum: 0.4677419
